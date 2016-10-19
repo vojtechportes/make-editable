@@ -33,7 +33,8 @@ function enable (doc) {
     copy: call(doc, 'copy'),
     paste: call(doc, 'paste'),
     delete: call(doc, 'delete'),
-    heading: call(doc, 'heading')
+    heading: call(doc, 'heading'),
+    formatBlock: call(doc, 'formatBlock')
   };
 }
 
