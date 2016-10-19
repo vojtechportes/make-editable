@@ -59,3 +59,5 @@ editable.exec(command, value, showDefaultUI)
 * copy: `copy`
 * paste: `paste`
 * delete: `delete`
+* header: `header`
+* formatBlock: `formatBlock`
